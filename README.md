@@ -21,6 +21,7 @@ Repository for discrete mathematics notes.
 ### Number Theory
 - [number theory](Unit2/numberTheory.ipynb)
 - [primes, GCD, LCM](Unit2/moreNumberTheory.ipynb)
+- [Elucid's algorithim, number reprintation](Unit2/moremoreNumberTheory.ipynb)
 
 ## Colab Notebooks
 
