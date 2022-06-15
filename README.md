@@ -24,6 +24,8 @@ Repository for discrete mathematics notes.
 - [Elucid's algorithim, number reprintation](Unit2/moremoreNumberTheory.ipynb)
 - [Cryptography](Unit2/cryptography.ipynb)
 - [Counting](Unit2/counting.ipynb)
+- [Summations](Unit2/summations.ipynb)
+- [Probablity](Unit2/probablility.ipynb)
 
 ## Colab Notebooks
 
