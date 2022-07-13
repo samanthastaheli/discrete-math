@@ -6,26 +6,37 @@ Repository for discrete mathematics notes.
 ### Propositions and Logic
 
 
-### Sets and Functions
-- [cartesian product](Unit1/cartesian_product.ipynb)
-- [functions](Unit1/functions.ipynb)
-- [functional programming](Unit1/functional_programming.ipynb)
-- [partions](Unit1/partitions.ipynb)
-- [inverse of a function](Unit1/inverse.ipynb)
+### Sets
+- [cartesian product](PropsAndFunctions/cartesian_product.ipynb)
+- [partions](PropsAndFunctions/partitions.ipynb)
+
+### Functions
+- [functions](PropsAndFunctions/functions.ipynb)
+- [functional programming](PropsAndFunctions/functional_programming.ipynb)
+- [inverse of a function](PropsAndFunctions/inverse.ipynb)
 
 ### Relations and Digraphs
-- [Binary Relations](Unit1/binary_relations.ipynb)
-- [Equivalence Relations](Unit1/equiv_relations.md)
-- [Directed Graphs](Unit1/digraphs.md)
+- [Binary Relations](PropsAndFunctions/binary_relations.ipynb)
+- [Equivalence Relations](PropsAndFunctions/equiv_relations.md)
+- [Directed Graphs](PropsAndFunctions/digraphs.md)
+
+### Computaion
+- [FSM](Other/fsm.ipynb)
+
+### Induction and Recursion
 
 ### Number Theory
-- [number theory](Unit2/numberTheory.ipynb)
-- [primes, GCD, LCM](Unit2/moreNumberTheory.ipynb)
-- [Elucid's algorithim, number reprintation](Unit2/moremoreNumberTheory.ipynb)
-- [Cryptography](Unit2/cryptography.ipynb)
-- [Counting](Unit2/counting.ipynb)
-- [Summations](Unit2/summations.ipynb)
-- [Probablity](Unit2/probablility.ipynb)
+*Integer properties, counting, and cryptography.*
+- [number theory](NumberTheory/numberTheory.ipynb)
+- [primes, GCD, LCM](NumberTheory/moreNumberTheory.ipynb)
+- [Elucid's algorithim, number reprintation](NumberTheory/moremoreNumberTheory.ipynb)
+- [Cryptography](NumberTheory/cryptography.ipynb)
+- [Counting](NumberTheory/counting.ipynb)
+- [Summations](NumberTheory/summations.ipynb)
+- [Probablity](NumberTheory/probablility.ipynb)
+
+### Graphs
+- [graphs](Graphs/graphs.ipynb)
 
 ## Colab Notebooks
 
@@ -42,3 +53,4 @@ Repository for discrete mathematics notes.
 ### Class Activities
 - [Class Activity: Week 5 Relations](https://gist.github.com/samanthastaheli/1c7e7b6423cc7b6093fcd3d202abbd29)
 - [Primes: Week 6](https://gist.github.com/samanthastaheli/31bcf21df00c9c952c376390a1919d3c)
+- [Graphs: Week 12](https://gist.github.com/samanthastaheli/a034cc729767c80cd7590b523f8e2e05)
