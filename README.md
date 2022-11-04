@@ -46,9 +46,14 @@ Repository for discrete mathematics notes.
 - [Homework Week 3](https://gist.github.com/samanthastaheli/10ba735fcbed7e62bd0f5a4967e74ec7)
 - [Homework Week 4](https://gist.github.com/samanthastaheli/b64f4d34694b471c1a829210d8942a78)
 - [Homework Week 5](https://gist.github.com/samanthastaheli/1c7e7b6423cc7b6093fcd3d202abbd29)
-- [Homework Week 6](https://gist.github.com/samanthastaheli/25dcdf8cf9ea45a78b8d280cf832a13b)
+- [Homework Week 6](Assignments/cse280_homework_06.ipynb)
 - [Homework Week 7](https://gist.github.com/samanthastaheli/5eff3b9a491431a596adaa9bd0803f0f)
-- [Homework Week 8](https://gist.github.com/samanthastaheli/c2adab62ca75de20203b1d1adb9b7097)
+- [Homework Week 8](Assignments/cse280_homework_08.ipynb)
+- [Homework Week 10](Assignments/cse280_homework_10.ipynb)
+- [Homework Week 11](Assignments/cse280_homework_11.ipynb)
+- [Homework Week 12](Assignments/cse280_homework_12.ipynb)
+- [Homework Week 13](Assignments/cse280_homework_13.ipynb)
+
 
 ### Class Activities
 - [Class Activity: Week 5 Relations](https://gist.github.com/samanthastaheli/1c7e7b6423cc7b6093fcd3d202abbd29)
